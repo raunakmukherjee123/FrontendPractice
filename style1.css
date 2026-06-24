@@ -1,6 +1,10 @@
 .div1{
   background-color: blueviolet;
   color: aqua;
+  height: 500px;
+  width: 100%;
+  border: 2px dashed red;
+  /* text-align: center; */
 }
 #id1{
   background-color: rgb(229, 183, 183);
@@ -9,3 +13,17 @@ button{
   background-color: black;
   color: white;
 }
+
+#p1{
+  font-size: large;
+  color: black;
+}
+#p2
+{
+  font-weight: 800;
+  color: black;
+}
+
+/* #header{
+  text-align: center;
+} */
